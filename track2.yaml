@@ -1,0 +1,12 @@
+cones_left: []
+cones_orange: []
+cones_orange_big: []
+cones_right:
+- - 6.0
+  - -2.2
+lap_threshold: 180
+starting_pose_front_wing:
+- 0.0
+- 0.0
+- 0.0
+tk_device: []
